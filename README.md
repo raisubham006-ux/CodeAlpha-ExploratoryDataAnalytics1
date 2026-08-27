@@ -61,7 +61,7 @@ pip install pandas numpy matplotlib seaborn
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/raisubham006-ux/CodeAlpha-ExploratoryDataAnalytics1
 
 Move into the project directory:
 
